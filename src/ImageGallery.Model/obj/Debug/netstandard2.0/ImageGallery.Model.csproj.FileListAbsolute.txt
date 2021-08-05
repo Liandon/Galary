@@ -1,0 +1,9 @@
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\code\PluralSight\securing-aspnet-core-3-oauth2-openid-connect\07\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
