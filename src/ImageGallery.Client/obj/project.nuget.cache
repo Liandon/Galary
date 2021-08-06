@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRqqJEGU82RE7XV9AwZuNtSftG4jkBV9Uv9rCS1nQttCDz6Uc+3moj7oHyIIbcPby7fOrbo4AXPvzdXodQC8pg==",
+  "dgSpecHash": "KukFPizZiKFxATQ4QJzWdElZfEk+I7V/5LYT2ql9+pwdSaW5m3SrchfKzS+EXlk88TkPUqmEH+KfJX0txzB/rA==",
   "success": true,
-  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
+  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dliang\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\dliang\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",

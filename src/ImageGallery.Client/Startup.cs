@@ -32,6 +32,7 @@ namespace ImageGallery.Client
                  .AddJsonOptions(opts => opts.JsonSerializerOptions.PropertyNamingPolicy = null);
 
             services.AddHttpContextAccessor();
+
             services.AddTransient<BearerTokenHandler>();
 
             // create an HttpClient used for accessing the API
@@ -39,7 +40,6 @@ namespace ImageGallery.Client
             {
                 client.BaseAddress = new Uri("https://localhost:44366/");
                 client.DefaultRequestHeaders.Clear();
-
                 client.DefaultRequestHeaders.Add(HeaderNames.Accept, "application/json");
             }).AddHttpMessageHandler<BearerTokenHandler>();
             // create an HttpClient used for accessing the IDP

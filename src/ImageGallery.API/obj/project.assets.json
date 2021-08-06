@@ -5545,11 +5545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.API\\ImageGallery.API.csproj",
+      "projectUniqueName": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.API\\ImageGallery.API.csproj",
       "projectName": "ImageGallery.API",
-      "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.API\\ImageGallery.API.csproj",
+      "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.API\\ImageGallery.API.csproj",
       "packagesPath": "C:\\Users\\dliang\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.API\\obj\\",
+      "outputPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dliang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5566,8 +5566,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
-              "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
+            "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+              "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
             }
           }
         }

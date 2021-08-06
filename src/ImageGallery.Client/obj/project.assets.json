@@ -6945,11 +6945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
+      "projectUniqueName": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
       "projectName": "ImageGallery.Client",
-      "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
+      "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
       "packagesPath": "C:\\Users\\dliang\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Client\\obj\\",
+      "outputPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dliang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6966,8 +6966,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
-              "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
+            "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+              "projectPath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
             }
           }
         }
