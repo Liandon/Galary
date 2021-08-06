@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DqpKa1x7jPGjVquNgyvJ8QOpiGqtuehcVWFg1th8SSCbe1tBolM6lIwee8B4pbSU73cKG6UxKLY88xeIv8VBnw==",
+  "dgSpecHash": "H4ZqBCldOPB1XL7J9jNc8USYvqdmiJUeSD//TFCAhFt7RyYc6QULkAT+rqksWwEFKlvaKwkuJL9yQMCyx4JyeQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\Marvin.IDP\\Marvin.IDP.csproj",
+  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\Marvin.IDP\\Marvin.IDP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dliang\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\dliang\\.nuget\\packages\\identityserver4\\3.1.0\\identityserver4.3.1.0.nupkg.sha512",

@@ -42,7 +42,6 @@ namespace ImageGallery.Client.Controllers
             var response = await httpClient.SendAsync(
                 request, HttpCompletionOption.ResponseHeadersRead).ConfigureAwait(false);
 
-
             if (response.IsSuccessStatusCode)
             {
                 using (var responseStream = await response.Content.ReadAsStreamAsync())
@@ -57,22 +56,13 @@ namespace ImageGallery.Client.Controllers
                 return RedirectToAction("AccessDenied", "Authorization");
             }
 
-            throw new Exception("Problem accessing the API");
-
-            //response.EnsureSuccessStatusCode();
-
-            //using (var responseStream = await response.Content.ReadAsStreamAsync())
-            //{   
-            //    return View(new GalleryIndexViewModel(
-            //        await JsonSerializer.DeserializeAsync<List<Image>>(responseStream)));
-            //}             
+            throw new Exception("Problem accessing the API");             
         }
 
         public async Task<IActionResult> EditImage(Guid id)
         {
 
             var httpClient = _httpClientFactory.CreateClient("APIClient");
-
 
             var request = new HttpRequestMessage(
                 HttpMethod.Get,
@@ -148,6 +138,7 @@ namespace ImageGallery.Client.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize(Roles = "PayingUser")]
         public IActionResult AddImage()
         {
             return View();
@@ -155,6 +146,7 @@ namespace ImageGallery.Client.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "PayingUser")]
         public async Task<IActionResult> AddImage(AddImageViewModel addImageViewModel)
         {
             if (!ModelState.IsValid)

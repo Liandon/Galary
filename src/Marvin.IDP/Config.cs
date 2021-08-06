@@ -25,8 +25,8 @@ namespace Marvin.IDP
         public static IEnumerable<ApiResource> Apis =>
             new ApiResource[] 
             {
-                 new ApiResource(
-                    "imagegalleryapi",
+                new ApiResource(
+                    "imagegalleryapi", 
                     "Image Gallery API",
                     new List<string>() { "role" })
             };

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrYeCOmjYHBWISC+HmyDXP06u/3MAh+UM0c2SLd1mxWprW+Rciwn+JqmmUjxZgFcTczqwtxdNWFt4tYFYZE7DA==",
+  "dgSpecHash": "DaxaPBuHmE5tzrTiEX4NFnJyFiJLxaQ6IpqCHvf3PQqH0httCLUPHrxixI3s8kxlCUnXO8j1CqSgcSkL/rcQMQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\start\\src\\ImageGallery.API\\ImageGallery.API.csproj",
+  "projectFilePath": "C:\\code\\PluralSight\\securing-aspnet-core-3-oauth2-openid-connect\\07\\demos\\end\\src\\ImageGallery.API\\ImageGallery.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dliang\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\dliang\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
